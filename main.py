@@ -32,6 +32,7 @@ API_HASH = "8b40e91c29a00fecb905d6eb6aee2b3b"
 BOT_TOKEN = ""
 AUTH_USERS = "6350117077"
 sudo_users = [6350117077]
+STRING = ""
 bot = Client(
     "bot",
     bot_token=BOT_TOKEN,
